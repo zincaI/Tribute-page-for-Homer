@@ -1,0 +1,49 @@
+img{
+  display:block;
+  height:auto;
+  max-width:100%;
+
+}
+
+p{
+  font:sans-serif;
+  color:#4c4751;
+font-size:15;
+}
+
+h1{
+  font:sans-serif;
+color:#4c4751;
+font-size:30;
+}
+
+div{
+  font:sans-serif;
+color:#4c4751;
+font-size:10;
+text-align:center;
+}
+
+footer{
+  font:sans-serif;
+color:#4c4751;
+font-size:15;
+}
+
+a:active{
+  color:black;
+}
+
+a:visited{
+  color:black;
+}
+
+a{
+  color:#d9dddc;
+}
+
+
+body{
+background-color:b9bbb6;
+text-align:center;
+}
